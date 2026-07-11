@@ -176,13 +176,11 @@ Useful Python scripts and developer tools.
 
 ---
 # 📈 GitHub Stats
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 <h2 align="center">📈 Contribution Graph</h2>
@@ -194,16 +192,13 @@ Useful Python scripts and developer tools.
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadsaeed-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadsaeed-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
 </p>
-
-
-# 🔥 GitHub Streak
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=muhammadsaeed-ai&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=muhammadsaeed-ai&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
