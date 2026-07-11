@@ -285,5 +285,4 @@ Building intelligent AI agents, automation systems, and developer tools that sol
 <i>Code • Build • Automate • Innovate</i>
 
 </p>
-https://img.shields.io/github/stars/muhammadsaeed-ai?affiliations=OWNER&style=for-the-badge
 
