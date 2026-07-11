@@ -6,11 +6,8 @@
   <img src="banner.jpg" alt="Muhammad Saeed Banner" width="100%">
 </p>
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=muhammadsaeed-ai&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/muhammadsaeed-ai?style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=muhammadsaeed-ai&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/github/followers/muhammadsaeed-ai?label=Followers&style=for-the-badge"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Muhammad Saeed</h1>
@@ -31,7 +28,7 @@ Building Intelligent AI Systems That Solve Real-World Problems.
 
 ---
 
-# 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 I'm passionate about building intelligent AI systems that automate workflows, solve business problems, and improve productivity.
 
@@ -41,7 +38,7 @@ Currently I'm focused on building my own AI ecosystem called **VerityAgent** whi
 
 ---
 
-# 🎯 Current Focus
+<h2 align="center">🎯 Current Focus</h2>
 
 - 🤖 Building VerityAgent
 - 🧠 Developing my own JARVIS AI Assistant
@@ -55,10 +52,19 @@ Currently I'm focused on building my own AI ecosystem called **VerityAgent** whi
 
 # 💭 Philosophy
 
-"I don't chase AI trends.
+<h2 align="center">💭 Philosophy</h2>
+
+<p align="center">
+
+<i>
+
+"I don't chase AI trends.<br>
 
 I build intelligent systems that automate real work, solve business problems, and create measurable impact."
----
+
+</i>
+
+</p>
 
 # 🛠 Tech Stack
 
@@ -76,13 +82,21 @@ I build intelligent systems that automate real work, solve business problems, an
 
 ## AI & LLM
 
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,ts,html,css,docker,git,github,vscode,nodejs,npm,linux&perline=7"/>
+
+</p>
+
 <h3 align="center">AI & Automation</h3>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
 
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google"/>
 
 <img src="https://img.shields.io/badge/OpenRouter-8A2BE2?style=for-the-badge"/>
 
@@ -163,20 +177,26 @@ Useful Python scripts and developer tools.
 ---
 # 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaeed-ai&theme=tokyo-night&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed-ai&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-#🏆 GitHub Trophies
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadsaeed-ai&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaeed-ai&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
----
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadsaeed-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
+</p>
+
 
 # 🔥 GitHub Streak
 
@@ -198,38 +218,40 @@ Useful Python scripts and developer tools.
 - ⬜ Publish AI Tutorials
 - ⬜ Help Businesses Automate with AI
 
-# 💼 Open To
+<h2 align="center">🤝 Open To</h2>
 
 - 🤖 AI Agent Development
+
 - ⚡ AI Automation Projects
+
 - 🧠 Multi-Agent Systems
-- 🌐 API Integrations
-- 🏢 Business Automation
+
+- 🌐 API Development
+
 - 🚀 Startup Collaboration
+
 - 💼 Freelance Projects
 
 ---
-
-# 🌎 Connect With Me
 
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
-<a href="https://verityagent.lovable.app">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://github.com/muhammadsaeed-ai">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://youtube.com/@YOURCHANNEL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -243,37 +265,22 @@ Today I'm building AI systems that automate real work and solve practical proble
 
 ---
 
-<h3 align="center">
 
-🚀 Building Autonomous AI Systems That Solve Real Business Problems
+<h2 align="center">🐍 Contribution Snake</h2>
 
-</h3>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake.svg">
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+
+<h2 align="center">🚀 Building the Future with Autonomous AI Systems</h2>
 
 <p align="center">
 
-<i>Code • Automate • Innovate</i>
+<i>Code • Build • Automate • Innovate</i>
 
 </p>
-
-## 🐍 Contribution Snake
-
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<h3 align="center">
-
-🚀 Building the future with autonomous AI systems.
-
-</h3>
-
 
