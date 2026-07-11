@@ -160,10 +160,9 @@ GitHub States
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed-ai&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed-ai&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
@@ -178,8 +177,7 @@ GitHub States
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsaeed-ai&theme=github-dark&hide_border=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadsaeed-ai&theme=algolia&no-frame=true&margin-w=15" />
 </p>
 
 ---
