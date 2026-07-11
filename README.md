@@ -176,12 +176,6 @@ Useful Python scripts and developer tools.
 
 ---
 # 📈 GitHub Stats
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-</p>
 
 <h2 align="center">📈 Contribution Graph</h2>
 
@@ -189,11 +183,6 @@ Useful Python scripts and developer tools.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaeed-ai&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadsaeed-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
-</p>
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
