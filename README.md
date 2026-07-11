@@ -167,6 +167,12 @@ Useful Python scripts and developer tools.
 
 </p>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadsaeed-ai&theme=algolia&row=2&column=4"/>
+</p>
+
 ---
 
 # 🔥 GitHub Streak
