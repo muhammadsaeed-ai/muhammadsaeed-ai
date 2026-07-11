@@ -8,7 +8,8 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=muhammadsaeed-ai&style=for-the-badge&color=0E75B6"/>
+![](https://komarev.com/ghpvc/?username=muhammadsaeed-ai&style=for-the-badge&color=blue)
+![](https://visitor-badge.laobi.icu/badge?page_id=muhammadsaeed-ai.muhammadsaeed-ai)
 
 </p>
 
@@ -106,15 +107,11 @@ I build intelligent systems that automate real work, solve business problems, an
 
 ## Tools
 
-Git
+<p align="center">
 
-GitHub
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,docker,git,vscode,github"/>
 
-VS Code
-
-Docker
-
-Windows
+</p>
 
 ---
 
@@ -208,16 +205,25 @@ GitHub States
 
 # 🌎 Connect With Me
 
-🌐 Website
+<p align="center">
 
-💼 LinkedIn
+<a href="https://yourwebsite.com">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-📺 YouTube
+<a href="https://linkedin.com/in/yourname">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-📧 Email
+<a href="https://youtube.com/@yourchannel">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
+</a>
 
-🐦 X
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"/>
+</a>
 
+</p>
 ---
 
 # ⚡ Fun Fact
