@@ -5,11 +5,13 @@
 <p align="center">
   <img src="banner.jpg" alt="Muhammad Saeed Banner" width="100%">
 </p>
-
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=muhammadsaeed-ai&style=for-the-badge&color=blue)
-![](https://visitor-badge.laobi.icu/badge?page_id=muhammadsaeed-ai.muhammadsaeed-ai)
+<img src="https://komarev.com/ghpvc/?username=muhammadsaeed-ai&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/muhammadsaeed-ai?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/muhammadsaeed-ai?style=for-the-badge"/>
 
 </p>
 
@@ -76,15 +78,23 @@ I build intelligent systems that automate real work, solve business problems, an
 
 ## AI & LLM
 
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+<h3 align="center">AI & Automation</h3>
 
-![Google Gemini](https://img.shields.io/badge/Gemini-blue?style=for-the-badge)
+<p align="center">
 
-![OpenRouter](https://img.shields.io/badge/OpenRouter-purple?style=for-the-badge)
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
 
-![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google"/>
 
-![MCP](https://img.shields.io/badge/MCP-orange?style=for-the-badge)
+<img src="https://img.shields.io/badge/OpenRouter-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MCP-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -109,7 +119,7 @@ I build intelligent systems that automate real work, solve business problems, an
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,docker,git,vscode,github"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,flask,docker,git,github,vscode,npm,nodejs"/>
 
 </p>
 
@@ -153,28 +163,28 @@ Learning and experimenting with the Model Context Protocol.
 Useful Python scripts and developer tools.
 
 ---
-GitHub States
+# 📈 GitHub Stats
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed-ai&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed-ai&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadsaeed-ai&theme=algolia&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadsaeed-ai&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
-
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<h2 align="center">🔥 GitHub Streak</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadsaeed-ai&theme=algolia&no-frame=true&margin-w=15" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=muhammadsaeed-ai&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -189,38 +199,38 @@ GitHub States
 - ⬜ Publish AI Tutorials
 - ⬜ Help Businesses Automate with AI
 
-## 🤝 Open To
+# 💼 Open To
 
-✔ AI Projects
-
-✔ AI Automation
-
-✔ Open Source Collaboration
-
-✔ Freelance AI Development
-
-✔ Startup Partnerships
+- 🤖 AI Agent Development
+- ⚡ AI Automation Projects
+- 🧠 Multi-Agent Systems
+- 🌐 API Integrations
+- 🏢 Business Automation
+- 🚀 Startup Collaboration
+- 💼 Freelance Projects
 
 ---
 
 # 🌎 Connect With Me
 
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
 
-<a href="https://yourwebsite.com">
+<a href="https://verityagent.lovable.app">
 <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourname">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://youtube.com/@yourchannel">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
+<a href="https://youtube.com/">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -234,8 +244,14 @@ Today I'm building AI systems that automate real work and solve practical proble
 
 ---
 
+<h3 align="center">
+
+🚀 Building Autonomous AI Systems That Solve Real Business Problems
+
+</h3>
+
 <p align="center">
 
-### 🚀 Building AI That Solves Real Problems.
+<i>Code • Automate • Innovate</i>
 
 </p>
