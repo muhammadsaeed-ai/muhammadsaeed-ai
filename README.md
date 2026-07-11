@@ -6,6 +6,12 @@
   <img src="banner.jpg" alt="Muhammad Saeed Banner" width="100%">
 </p>
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=muhammadsaeed-ai&style=for-the-badge&color=0E75B6"/>
+
+</p>
+
 <h1 align="center">Hi 👋 I'm Muhammad Saeed</h1>
 
 <h3 align="center">
