@@ -175,15 +175,6 @@ Learning and experimenting with the Model Context Protocol.
 Useful Python scripts and developer tools.
 
 ---
-# 📈 GitHub Stats
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaeed-ai&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
-
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
@@ -216,29 +207,6 @@ Useful Python scripts and developer tools.
 
 - 💼 Freelance Projects
 
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-
-<a href="https://github.com/muhammadsaeed-ai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://youtube.com/@YOURCHANNEL">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
 ---
 
 # ⚡ Fun Fact
