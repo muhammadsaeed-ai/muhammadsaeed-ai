@@ -7,11 +7,9 @@
 </p>
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=muhammadsaeed-ai&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=muhammadsaeed-ai&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/muhammadsaeed-ai?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/muhammadsaeed-ai?style=for-the-badge"/>
 
 </p>
 
@@ -167,6 +165,11 @@ Useful Python scripts and developer tools.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaeed-ai&theme=tokyo-night&hide_border=true"/>
 </p>
 
 #🏆 GitHub Trophies
