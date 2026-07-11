@@ -3,8 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="<img width="1983" height="793" alt="688dc044-453d-48fc-8c96-2df4fa37944e" src="https://github.com/user-attachments/assets/55cc65b5-8215-4cd9-9beb-2f6ff080469f" />
-" alt="Muhammad Saeed Banner" width="100%" />
+  <img src="./assets/banner.jpg" alt="Muhammad Saeed Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Muhammad Saeed</h1>
