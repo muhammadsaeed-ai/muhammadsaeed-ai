@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="[./assets/banner.jpg](https://github.com/muhammadsaeed-ai/muhammadsaeed-ai/blob/main/banner.jpg)" alt="Muhammad Saeed Banner" width="100%">
+  <img src="banner.jpg" alt="Muhammad Saeed Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Muhammad Saeed</h1>
@@ -108,8 +108,6 @@ GitHub
 VS Code
 
 Docker
-
-Linux
 
 Windows
 
