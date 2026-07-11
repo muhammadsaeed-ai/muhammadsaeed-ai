@@ -255,3 +255,8 @@ Today I'm building AI systems that automate real work and solve practical proble
 <i>Code • Automate • Innovate</i>
 
 </p>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
