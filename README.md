@@ -248,16 +248,66 @@ I started my career as a designer.
 Today I'm building AI systems that automate real work and solve practical problems.
 
 ---
+<!-- ========================================= -->
+<!--        GITHUB CONTRIBUTION SECTION         -->
+<!-- ========================================= -->
 
-
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">📈 GitHub Contribution Activity</h2>
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake.svg">
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake.svg">
-</picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaeed-ai&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<br>
+
+<h2 align="center">🚀 Building the Future with Autonomous AI Systems</h2>
+
+<p align="center">
+<i>
+Building intelligent AI agents, automation systems, and developer tools that solve real-world business problems.
+</i>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/muhammadsaeed-ai">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@YOURCHANNEL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=muhammadsaeed-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/muhammadsaeed-ai?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/muhammadsaeed-ai?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+<br>
+
+💙 If you like my work, consider following me and checking out my repositories.
+
 </p>
 
 <h2 align="center">🚀 Building the Future with Autonomous AI Systems</h2>
@@ -267,4 +317,5 @@ Today I'm building AI systems that automate real work and solve practical proble
 <i>Code • Build • Automate • Innovate</i>
 
 </p>
+https://img.shields.io/github/stars/muhammadsaeed-ai?affiliations=OWNER&style=for-the-badge
 
