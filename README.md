@@ -165,14 +165,11 @@ Useful Python scripts and developer tools.
 ---
 # 📈 GitHub Stats
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+#🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=muhammadsaeed-ai&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
