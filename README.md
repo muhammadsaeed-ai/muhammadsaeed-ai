@@ -273,3 +273,15 @@ Today I'm building AI systems that automate real work and solve practical proble
       src="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+<h3 align="center">
+
+🚀 Building the future with autonomous AI systems.
+
+</h3>
+
+<p align="center">
+
+<i>Code • Build • Automate • Innovate</i>
+
+</p>
