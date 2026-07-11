@@ -252,7 +252,10 @@ Today I'm building AI systems that automate real work and solve practical proble
 <i>Code • Automate • Innovate</i>
 
 </p>
-<h2 align="center">🐍 Contribution Snake</h2>
+
+## 🐍 Contribution Snake
+
+<h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
   <picture>
@@ -260,7 +263,7 @@ Today I'm building AI systems that automate real work and solve practical proble
       srcset="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake"
+    <img alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/muhammadsaeed-ai/muhammadsaeed-ai/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
