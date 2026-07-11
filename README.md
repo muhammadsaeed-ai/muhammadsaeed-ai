@@ -168,6 +168,9 @@ Useful Python scripts and developer tools.
 </p>
 <h2 align="center">📈 Contribution Graph</h2>
 
+
+<h2 align="center">📈 Contribution Graph</h2>
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaeed-ai&theme=tokyo-night&hide_border=true"/>
 </p>
