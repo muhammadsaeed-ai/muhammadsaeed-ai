@@ -54,10 +54,9 @@ Currently I'm focused on building my own AI ecosystem called **VerityAgent** whi
 
 # 💭 Philosophy
 
-> I don't just use AI.
+"I don't chase AI trends.
 
-> I build intelligent systems that solve real-world problems.
-
+I build intelligent systems that automate real work, solve business problems, and create measurable impact."
 ---
 
 # 🛠 Tech Stack
@@ -157,17 +156,11 @@ Learning and experimenting with the Model Context Protocol.
 Useful Python scripts and developer tools.
 
 ---
-
-# 📈 GitHub Stats
+GitHub States
 
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-# language stats
-
-<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed-ai&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -201,16 +194,31 @@ Useful Python scripts and developer tools.
 - ⬜ Publish AI Tutorials
 - ⬜ Help Businesses Automate with AI
 
+## 🤝 Open To
+
+✔ AI Projects
+
+✔ AI Automation
+
+✔ Open Source Collaboration
+
+✔ Freelance AI Development
+
+✔ Startup Partnerships
+
 ---
 
 # 🌎 Connect With Me
 
-Coming Soon
+🌐 Website
 
-- LinkedIn
-- YouTube
-- Portfolio Website
-- X (Twitter)
+💼 LinkedIn
+
+📺 YouTube
+
+📧 Email
+
+🐦 X
 
 ---
 
