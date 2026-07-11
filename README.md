@@ -166,10 +166,6 @@ Useful Python scripts and developer tools.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-<h2 align="center">📈 Contribution Graph</h2>
-
-
-<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaeed-ai&theme=tokyo-night&hide_border=true"/>
@@ -280,8 +276,4 @@ Today I'm building AI systems that automate real work and solve practical proble
 
 </h3>
 
-<p align="center">
 
-<i>Code • Build • Automate • Innovate</i>
-
-</p>
