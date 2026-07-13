@@ -219,12 +219,6 @@ Today I'm building AI systems that automate real work and solve practical proble
 <!-- ========================================= -->
 <!--        GITHUB CONTRIBUTION SECTION         -->
 <!-- ========================================= -->
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsaeed-ai&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaeed-ai&layout=compact&theme=tokyonight)
-
 
 <h2 align="center">📈 GitHub Contribution Activity</h2>
 
@@ -252,7 +246,7 @@ Building intelligent AI agents, automation systems, and developer tools that sol
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@YOURCHANNEL">
+<a href="(https://www.youtube.com/@ranagraphics1)">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
