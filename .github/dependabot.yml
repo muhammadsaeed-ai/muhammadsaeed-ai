@@ -1,0 +1,74 @@
+# ==========================================================
+# VerityAgent - Dependabot Configuration
+# Automatically keeps dependencies up to date.
+# ==========================================================
+
+version: 2
+
+updates:
+
+  # ----------------------------
+  # Python (pip)
+  # ----------------------------
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "09:00"
+      timezone: "UTC"
+
+    open-pull-requests-limit: 10
+
+    commit-message:
+      prefix: "deps"
+
+    labels:
+      - dependencies
+      - python
+
+  # ----------------------------
+  # GitHub Actions
+  # ----------------------------
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "09:30"
+      timezone: "UTC"
+
+    open-pull-requests-limit: 5
+
+    commit-message:
+      prefix: "ci"
+
+    labels:
+      - github-actions
+
+  # ----------------------------
+  # Docker (Optional)
+  # ----------------------------
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+
+    open-pull-requests-limit: 5
+
+    labels:
+      - docker
+
+  # ----------------------------
+  # npm (Optional)
+  # ----------------------------
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+    open-pull-requests-limit: 5
+
+    labels:
+      - javascript
+      - frontend
