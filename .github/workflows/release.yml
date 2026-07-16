@@ -1,0 +1,51 @@
+name: 🚀 Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: 📦 Create GitHub Release
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 📦 Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: 📝 Generate Release Notes
+        id: release_notes
+        run: |
+          echo "## 🚀 VerityAgent Release" > RELEASE_NOTES.md
+          echo "" >> RELEASE_NOTES.md
+          echo "Thank you for using VerityAgent!" >> RELEASE_NOTES.md
+          echo "" >> RELEASE_NOTES.md
+          echo "### Highlights" >> RELEASE_NOTES.md
+          echo "- New Features" >> RELEASE_NOTES.md
+          echo "- Bug Fixes" >> RELEASE_NOTES.md
+          echo "- Performance Improvements" >> RELEASE_NOTES.md
+          echo "- Documentation Updates" >> RELEASE_NOTES.md
+
+      - name: 🎉 Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          body_path: RELEASE_NOTES.md
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
